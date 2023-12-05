@@ -2,7 +2,7 @@
 <b>Hi, My name is Tyler. I am a data professional.<b>
 
 <p></p>
-<div align="center"> <h1 align="center"> :milky_way:	 DATA ANALYSIS TOOLS :milky_way: </h1> </div>
+<div align="center"> <h1 align="center"> 🌌 DATA ANALYSIS TOOLS 🌌 </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
 
@@ -19,7 +19,7 @@
 </p>
 
 
-<div align="center"> <h1 align="center"> :bar_chart: DATA VISUALIZATION :bar_chart:	</h1> </div>
+<div align="center"> <h1 align="center"> 📊 DATA VISUALIZATION 📊	</h1> </div>
 
 <b>I have also experience using these data visualization tools.<b>
 
@@ -29,7 +29,7 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
-<div align="center"> <h1 align="center"> :video_game: SOCIAL :video_game: </h1> </div>
+<div align="center"> <h1 align="center"> 🎮 SOCIAL 🎮 </h1> </div>
 <b>Lets connect</b>
 <p align="center">
 
